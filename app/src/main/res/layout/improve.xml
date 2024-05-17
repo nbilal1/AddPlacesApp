@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    app:cardBackgroundColor="@color/white"
+
+    app:cardCornerRadius="12dp"
+    app:cardElevation="5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:gravity="end"
+
+            >
+
+            <ImageView
+                android:id="@+id/close_btn"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_marginTop="20dp"
+                android:elevation="2dp"
+                android:padding="2dp"
+                android:background="@drawable/cirlce_bg"
+                android:src="@drawable/baseline_add_24"
+                android:rotation="45"
+                app:tint="@color/white" />
+        </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:layout_marginTop="50dp"
+                    android:fontFamily="@font/kanit_medium"
+                    android:text="Help to improve"
+                    android:textSize="22dp"
+                    android:textColor="@color/black"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="30dp"
+                    android:text="Your feedback matters"
+                    android:textColor="@color/black"
+                    android:fontFamily="@font/kanit_regular"
+                    android:textSize="16dp" />
+
+                <EditText
+                    android:id="@+id/editTextFeedback"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_margin="20dp"
+                    android:hint="Write here"
+                    android:padding="10dp"
+                    android:fontFamily="@font/kanit_regular"
+                    android:textColorHint="#C3BDBD"
+                    android:background="@drawable/edit_bg"
+
+                    />
+
+                <TextView
+                    android:id="@+id/buttonSubmit"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:layout_margin="24dp"
+
+                    android:layout_weight="1"
+                    android:background="@drawable/roundbutton"
+                    android:backgroundTint="@color/black"
+                    android:fontFamily="@font/kanit_bold"
+                    android:gravity="center"
+                    android:text="Submit"
+                    android:textColor="@color/yellow"
+                    android:textSize="23dp" />
+
+
+            </LinearLayout>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    app:cardCornerRadius="6dp">-->
+
+
+
+<!--</androidx.cardview.widget.CardView>-->

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ly8white">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="440dp"
+        android:layout_height="655dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-29dp"
+        android:layout_marginBottom="-199dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/road" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="72dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="610dp"
+        android:text="Locate what you"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="35dp"
+        android:fontFamily="@font/kanit_extra_bold"/>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="65dp"
+android:layout_centerHorizontal="true"        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="566dp"
+        android:text="Need!"
+        android:fontFamily="@font/kanit_extra_bold"
+        android:textAlignment="center"
+        android:textColor="@color/yellow"
+        android:textSize="35dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:layout_alignParentBottom="true"
+
+        android:layout_centerHorizontal="true"          android:layout_marginBottom="530dp"
+        android:text="Find your way, discover new places"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:fontFamily="@font/kanit_medium"
+        android:textSize="17dp" />
+
+    <Button
+        android:id="@+id/startbtn"
+        android:layout_width="187dp"
+        android:layout_height="61dp"
+
+        android:layout_centerHorizontal="true"          android:layout_alignParentBottom="true"
+        android:layout_marginBottom="464dp"
+        android:backgroundTint="@color/yellow"
+        android:text="Let's go!"
+        android:fontFamily="@font/kanit_medium"
+
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20dp" />
+
+</RelativeLayout>

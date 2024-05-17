@@ -1,0 +1,807 @@
+{
+  "project_info": {
+    "project_number": "890062472575",
+    "firebase_url": "https://sweet-nutrition-default-rtdb.firebaseio.com",
+    "project_id": "sweet-nutrition",
+    "storage_bucket": "sweet-nutrition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:206fb5aacef59cb904464a",
+        "android_client_info": {
+          "package_name": "com.idcard.saver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:dd21879b3bd5e3e404464a",
+        "android_client_info": {
+          "package_name": "com.lucky.blocks.mods.mcpeaddons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:78d4ef8bee264cc104464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.addplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:5ce6ad65b49e680004464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.calenderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:b9d7fdf3bb41ebec04464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.controlsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:c0c0ff64cad910b104464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.dantlicorp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:7186612db29caa0904464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.grocify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:5d7671513c1121cb04464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.instuitionbuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:9a9481e96024a2bc04464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.letswander"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:c1f0aefbd19ee54a04464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.letswanderadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:74776b306a9d577104464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.marktmeisterpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:70ec66360fc90f3004464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.musicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-i63fqhv1n1hc4vdapvl8u2nrl07mluhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moutamid.musicapp",
+            "certificate_hash": "67bc1cb2cc172c5bba943e34a740c33f1b1c113a"
+          }
+        },
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:07c66f617fb97acd04464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.musicappadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-ljmh9iqqmij2uh8q4mkrbc3hhrmmtope.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moutamid.musicappadmin",
+            "certificate_hash": "67bc1cb2cc172c5bba943e34a740c33f1b1c113a"
+          }
+        },
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:5f8e954034ca0f4804464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.pricestige"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:17b0c0e131938e4704464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.routineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:43e94ca9e3a0c11704464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.spintowin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:81b395f6a2f9054704464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.spintowinadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:45ff60eff1e5a3cc04464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.sprachelernen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:fb9d96839f4286f304464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.telegramdummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890062472575:android:20b90137ac09f2a504464a",
+        "android_client_info": {
+          "package_name": "com.moutamid.tiptop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGSYphpIh40M7fze_LUKzkSi4dDG8OQY"
+        },
+        {
+          "current_key": "AIzaSyDs5tQw7ybQSapjIe-AFat1llFeuU_Yarc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890062472575-05ue90j9694eg6eorj1lhjoknkj3oqja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890062472575-n82emgghjp5pqgv9hijtnabvrp5btuco.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torashare.ToraShare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

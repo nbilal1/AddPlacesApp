@@ -1,0 +1,43 @@
+<!-- item_feedback.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/kanit_medium"
+        android:text="@string/app_name"
+        android:textSize="18sp" />
+
+
+    <TextView
+        android:id="@+id/feedbackTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_below="@+id/nameTextView"
+        android:fontFamily="@font/kanit_regular"
+        android:text="@string/app_name"
+        android:textSize="14sp" />
+
+    <com.willy.ratingbar.ScaleRatingBar xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/ratingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        app:srb_clearRatingEnabled="true"
+        app:srb_clickable="true"
+        app:srb_isIndicator="false"
+        app:srb_minimumStars="1"
+        app:srb_numStars="5"
+        app:srb_rating="2"
+        app:srb_scrollable="true"
+        app:srb_starHeight="15dp"
+        app:srb_starWidth="15dp"
+        app:srb_stepSize="0.5"></com.willy.ratingbar.ScaleRatingBar>
+
+</RelativeLayout>
